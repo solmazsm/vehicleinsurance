@@ -1,0 +1,64 @@
+.root{
+     -fx-background-color: linear-gradient(#FFB570, #FFB3D1);
+     -fx-font-size: 11pt;
+ }
+
+ .label{
+     -fx-text-fill: #FF0000;
+  }
+
+ .button{
+-fx-background-color: linear-gradient(#7EA6E0, #7EA6E0);
+-fx-background-radius: 100;
+ }
+
+ .text-area{
+     -fx-background-color: white;
+     -fx-background-radius: 0;
+  }
+
+
+.label{
+	-fx-background-color:  linear-gradient(white, white);}
+
+.password{
+	-fx-background-color: radial-gradient(center 50% -40%, radius 200%, #FFB3D1 45%, #FFB3D1 50%);
+    -fx-text-fill: black;
+    -fx-font-size: 11px;
+    -fx-padding: 5 10 5 10;
+    
+    
+}
+#name{
+	-fx-background-color: radial-gradient(center 50% -40%, radius 200%, #FFFFFF 45%, #FFB3D1 50%);
+    -fx-text-fill: black;
+    -fx-font-size: 11px;
+    -fx-padding: 5 10 5 10;
+    }
+.login{
+	-fx-background-color:  radial-gradient(center 50% -40%, radius 200%, #FFFFFF 45%, #00BFFF 50%);
+    -fx-text-fill: orange;
+    -fx-font-size: 20px;
+    -fx-padding: 5 20 5 20;
+   }
+   .combobox{
+	-fx-background-color:	linear-gradient(orange, orangered );
+	-fx-text-fill: blue;
+	-fx-font-size: 10px;
+	-fx-padding: 3 10 3 10;
+    }
+ .cancel {
+ 	-fx-background-color: radial-gradient(center 100% -40%, radius 300%, #FFFFFF 45%, #FFFFFF 50%);
+ 	-fx-text-fill:orange;
+	-fx-font-size: 20px;
+	
+	-fx-padding: 5 20 5 20;}
+	.scene{-fx-background-color: radial-gradient(center 50% -40%, radius 200%, #00FFFF 45%, #00BFFF 50%);
+ 	-fx-text-fill:white;
+	-fx-font-size: 20px;
+	}
+	.text-area{
+     -fx-background-color: white;
+     -fx-background-radius: 0;
+  }
+	
